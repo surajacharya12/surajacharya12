@@ -1,13 +1,14 @@
-<h1 align="center">👋 Hi, I'm Suraj Acharya</h1>
-<h3 align="center">💻 Computer Engineering Student from Nepal</h3>
+<h2 align="center">🚀 Computer Engineering Student | Full Stack Developer | Nepal</h2>
 
+<div align="left">
+<h1 align="center">⭐ Let's make Success Together! ⭐</h1>
+<div align="center">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="400"/>
 </p>
 
----
 
-### 🔗 Connect with me
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://x.com/SURAJAC22891334" target="_blank" rel="noopener noreferrer">
@@ -27,98 +28,72 @@
   </a>
 </p>
 
+
+<table><tr><td valign="top" width="33%">
+
+
+### 🎨 Frontend & Mobile
+
+  <div align="center">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  </div>
+
+</td><td valign="top" width="33%">
+
+### ⚡ Backend & Languages
+
+  <div align="center">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+  </div>
+
+</td><td valign="top" width="33%">
+
+### 🗄️ Database & Hardware
+
+  <div align="center">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
+  </div>
+
+</td></tr></table>  
+
 ---
 
-### 🛠️ Languages and Tools
+### 📊 GitHub Activity & Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajacharya12&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaniadev&theme=vue" width="49.5%" />
 
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-<a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-  alt="Express" 
-  width="40" 
-  height="40" 
-  style="filter: brightness(10) contrast(200%) invert(1);" 
-/>
-</a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajacharya12&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surajacharya12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajacharya12&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajacharya12&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="700"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="80%"/>
 </p>
 
----
 
 ### 👀 Profile Views
 
