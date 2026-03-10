@@ -73,10 +73,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajacharya12&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaniadev&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaniadev&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaniadev&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaniadev&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajacharya12&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajacharya12&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajacharya12&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajacharya12&theme=vue" width="49.5%" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajacharya12&theme=tokyonight" width="100%" alt="GitHub Streak" />
